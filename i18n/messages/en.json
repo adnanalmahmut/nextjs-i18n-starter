@@ -1,0 +1,33 @@
+{
+  "layout": {
+    "languages": {
+      "ar": "Arabic",
+      "en": "English",
+      "fa": "Persian",
+      "tr": "Turkish"
+    },
+    "mode": {
+      "mode": "Mode Toggle",
+      "dark": "Dark Mode",
+      "light": "Light Mode",
+      "system": "System"
+    }
+  },
+  "home": {
+    "title": "Home Page | Adnan"
+  },
+  "Hero": {
+    "brand": "Adnan.Dev",
+    "nav": {
+      "about": "About Me",
+      "projects": "Projects",
+      "contact": "Contact"
+    },
+    "icons": {
+      "github": "Github",
+      "linkedin": "Linkedin",
+      "email": "Email",
+      "languages": "Languages"
+    }
+  }
+}
